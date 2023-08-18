@@ -25,7 +25,7 @@ O código do desafio anterior foi aprimorado com modularização usando funçõe
 
 #### 📌 MENU PRINCIPAL
 <br>
-<img align="center" alt="Menu_principal"  width="250" src="img/image.png"/>
+<img align="center" alt="Menu_principal"  width="350" src="img/image.png"/>
 <br><br>
 
 
