@@ -2,7 +2,7 @@
 
 # sistema_bancario_v2.py
 
-Opções de menu no Sistema Bancário
+
 
 >"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!"
 <!-- Mario Sergio Cortella  --> 
