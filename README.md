@@ -1,7 +1,5 @@
 # 💵 E-corp Bank 💵
 
-# sistema_bancario_v2.py
-
 
 
 >"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!"
