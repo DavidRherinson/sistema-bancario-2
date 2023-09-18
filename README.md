@@ -11,7 +11,7 @@ O código do desafio anterior foi aprimorado com modularização usando funçõe
 ## *Projeto melhorado*
 sistema_bancario_v2.2.py
 
-- Codigo remodelado com orientação a objeto.<br>
+- Código remodelado com orientação a objeto.<br>
 - Função depositar e sacar agora e atrelado ao cpf da conta.
 
 
