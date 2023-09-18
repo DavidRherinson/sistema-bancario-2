@@ -11,8 +11,8 @@ O código do desafio anterior foi aprimorado com modularização usando funçõe
 ## *Projeto melhorado*
 sistema_bancario_v2.2.py
 
-Codigo remodelado com orientação a objeto.
-Função depositar e sacar agora e atrelado ao cpf da conta.
+- Codigo remodelado com orientação a objeto.<br>
+- Função depositar e sacar agora e atrelado ao cpf da conta.
 
 
 1. Potência Tech powered by iFood | Ciência de Dados- [acesse o curso](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python).
