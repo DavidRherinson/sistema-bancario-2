@@ -8,6 +8,13 @@
 ## _*Projeto Desafio Criando um Sistema Bancário*_
 O código do desafio anterior foi aprimorado com modularização usando funções para depósito, saque e exibição de extrato, além de criar e listar contas e usuários. O menu foi formatado para melhor exibição. As informações dos usuários são armazenadas em dicionários. O programa permite controle de conta bancária com opções para depósito, saque, extrato, criação de usuário e conta, e listagem de contas. As melhorias tornam o código mais organizado e funcional, proporcionando um sistema mais robusto para gerenciar múltiplas contas bancárias.
 
+## *Projeto melhorado*
+sistema_bancario_v2.2.py
+
+Codigo remodelado com orientação a objeto.
+Função depositar e sacar agora e atrelado ao cpf da conta.
+
+
 1. Potência Tech powered by iFood | Ciência de Dados- [acesse o curso](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python).
 
 ### 🔧 FUNCIONALIDADES
